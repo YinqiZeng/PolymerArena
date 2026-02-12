@@ -16,6 +16,7 @@ Paper under consideration at ICML'26
 
 
 ## 📚 Citation
+```bibtex
 @article{chemrxiv2026polymerarena,
   title={PolymerArena: Benchmarking Multi-Task Graph Learning Models on Polymer Property Prediction},
   author={Zeng, Yinqi and Qiu, Ruizhong and Bei, Yuanchen and Tong, Hanghang and Li, Renjie},
@@ -23,3 +24,4 @@ Paper under consideration at ICML'26
   year={2026},
   doi={10.26434/chemrxiv.10001868/v1}
 }
+```
