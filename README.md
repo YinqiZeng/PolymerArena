@@ -15,6 +15,9 @@ Paper under consideration at ICML'26
 
 
 
+
+---
+
 ## 📚 Citation
 ```bibtex
 @article{chemrxiv2026polymerarena,
